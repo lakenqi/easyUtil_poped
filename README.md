@@ -13,7 +13,7 @@ Modal Dialogue Box by  JavaScript
 		<ul>
 			<li>1. 提示框：
 				<p>easyPoped.msg(text, time, offset): </p>
-				<p>&emsp;&emsp;text： String类型，提示内容； </p>
+				<p>&emsp;&emsp;text： String或Number类型，提示内容； </p>
 				<p>&emsp;&emsp;time：选填项 ,默认1000ms, Number类型，自动关闭时间 ms 设为0则手动关闭；如不设置此项，也可直接写offset偏移量</p>
 				<p>&emsp;&emsp;offset：选填项， Array类型，弹出框偏移量top,left两个值，如只写一个值，则设置top偏移，支持多种单位和百分比，如果不写单位，默认px。</p>
 				<p>&emsp;&emsp;方法返回值为当前提示框的id,如果手动关闭，则可以将id传入closeMsg方法，关闭提示框</p>
