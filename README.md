@@ -6,7 +6,7 @@ Modal Dialogue Box by  JavaScript
 		<h3>API:</h3>
 		<h3>入口</h3>
 		<ul>
-			<li>1.全局引用名称为easyPoped</li>
+			<li>1.普通调用全局引用名称为easyPoped，模块化可自定义名称</li>
 			<li>2.保证easyUtilPoped_v1.0文件夹目录结构，并整体放到项目目录下，引用文件即可</li>
 		</ul>
 		<h3>具体方法及参数（以普通调用名称为例）</h3>
