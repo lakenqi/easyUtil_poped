@@ -1,8 +1,8 @@
 # easyUtil_poped
 Modal Dialogue Box by  JavaScript
 <h3>简介</h3>
-		<h5>&emsp;&emsp;easyUtil.poped是简单的模态弹出窗口，拥有提示框，警告框，对话框以及弹出窗口功能，有两种颜色样式可以选择，也可以自定义样式，修改css文件对应类即可。</h5>
-		<h5>&emsp;&emsp;easyUtil.poped支持模块化引用</h5>
+		<h4>&emsp;&emsp;easyUtil.poped是简单的模态弹出窗口，拥有提示框，警告框，对话框以及弹出窗口功能，有两种颜色样式可以选择，也可以自定义样式，修改css文件对应类即可。</h4>
+		<h4>&emsp;&emsp;easyUtil.poped支持模块化引用</h4>
 		<h3>API:</h3>
 		<h3>入口</h3>
 		<ul>
