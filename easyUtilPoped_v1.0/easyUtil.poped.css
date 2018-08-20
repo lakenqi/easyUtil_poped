@@ -98,24 +98,37 @@
 	font-size: 15px !important;
 }
 .easyUtil-poped-btns-btn1{
-	border: 1px solid #3F99FF;
+	border: 1px solid rgba(0, 210, 255,0.8);
 	color: #FFFFFF;
-	background-color: #3F99FF;
+	background-color: rgba(0, 210, 255,0.8);
+}
+.easyUtil-poped-btns-btn1:hover{
+	background-color: rgba(0, 210, 255,1);
 }
 .easyUtil-poped-btns-btn2{
 	border: 1px solid rgba(0,0,0,0.3);
 	color: #000000;
 	background-color: #FFFFFF;
 }
+.easyUtil-poped-btns-btn2:hover{
+	border: 1px solid rgba(0,0,0,0.5);
+}
 .easyUtil-poped-btns-btn1-2{
-	border: 1px solid #2e8ded;
+	border: 1px solid rgba(46, 141, 237,0.8);
 	color: #FFFFFF;
-	background-color: #2e8ded;
+	background-color: rgba(46, 141, 237,0.8);
+}
+.easyUtil-poped-btns-btn1-2:hover{
+	background-color: rgba(46, 141, 237,1);
 }
 .easyUtil-poped-btns-btn2-2{
-	border: 1px solid #ffa200;
+	border: 1px solid rgba(255, 162, 0,0.8);
 	color: #FFFFFF;
-	background-color: #ffa200;
+	background-color: rgba(255, 162, 0,0.8);
+}
+.easyUtil-poped-btns-btn2-2:hover{
+	border: 1px solid rgba(255, 162, 0,0.8);
+	background-color: rgba(255, 162, 0,1);
 }
 .easyUtil-poped-btns-left{
 	justify-content: flex-start !important;
