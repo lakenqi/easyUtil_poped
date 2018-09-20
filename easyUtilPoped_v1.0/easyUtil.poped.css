@@ -34,7 +34,7 @@
 	height: 40px;
 	line-height: 40px;
 	font-size: 1.2em;
-	background-color: #FFFFFF;
+	border-radius: 5px 5px 0 0;
 	cursor: move;
 }
 .easyUtil-poped-title2{
@@ -65,6 +65,7 @@
 	height: -webkit-calc( 100% - 41px );
 	width: 100%;
 	color: #000000;
+	border-radius: 0 0 5px 5px;
 	overflow: hidden;
 }
 .easyUtil-poped-iframe2{
@@ -84,6 +85,7 @@
 	border-top: 1px solid rgba(0,0,0,0.3);
 	height: 45px;
 	padding: 5px;
+	border-radius: 0 0 5px 5px;
 	box-sizing: border-box;
 }
 .easyUtil-poped-btns2{
